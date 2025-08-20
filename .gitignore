@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Dados e artefactos locais
+data/
+outputs/
+reports/
